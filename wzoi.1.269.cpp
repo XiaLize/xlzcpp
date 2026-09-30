@@ -1,4 +1,4 @@
-#include<bits/stdc++.h>
+#include<bits/stdc++.h>//病人排队
 using namespace std;
 
 struct bingrenxinx
